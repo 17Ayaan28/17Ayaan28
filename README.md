@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaan Adil</h1>
-<h3 align="center">a Software Engineer</h3>
+<h3 align="center">a Software Engineer at ANZ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=17ayaan28&label=Profile%20views&color=0e75b6&style=flat" alt="17ayaan28" /> </p>
 
